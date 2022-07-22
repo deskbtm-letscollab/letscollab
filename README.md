@@ -40,6 +40,9 @@ letscollab 社区版本欢迎大家提交 Pr，如果有意愿加入私有部分
 
 WeChat: Nawbc9423
 
+## Credits
+
+
 ## License
 
 本程序基于 GNU AFFERO GENERAL PUBLIC LICENSE (AGPL-3.0) 协议
